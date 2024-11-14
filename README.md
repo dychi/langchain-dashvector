@@ -1,5 +1,8 @@
 # langchain-dashvector
 
+このリポジトリは、LangChain で DashVector を使用する実装サンプルリポジトリです。
+DashVector は、高速でスケーラブルなベクトルストアで、LangChain は、LLM のための強力なフレームワークです。
+
 ## 環境変数
 
 ```
